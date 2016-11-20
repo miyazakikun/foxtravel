@@ -1,0 +1,7 @@
+{
+  "require" : {
+    "intervention/image": "^2.3",
+    "nesbot/carbon": "^1.21",
+    "dompdf/dompdf": "^0.7.0"
+  }
+}
